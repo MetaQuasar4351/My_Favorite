@@ -11,10 +11,11 @@ div{
 
 img {
     margin: auto;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
     width: 300px;
+    margin: 5px;
+}
+
+.photodiv {
+    width: 500px;
+    height: 600px;
 }
