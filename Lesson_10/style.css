@@ -5,4 +5,16 @@ body{
 
 div{
     margin-bottom: 20px;
+    text-align: center;
+    max-height: 500px;
+}
+
+img {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
 }
